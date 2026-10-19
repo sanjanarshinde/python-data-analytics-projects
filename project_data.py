@@ -4,7 +4,7 @@ Capstone Project - Python Fundamentals
 Employee / Project / Seniority analysis with pandas, plus matplotlib and
 seaborn charts.
 
-Run:  python project.py
+Run:  python project_data.py
 Output: CSV files in the current folder and PNG charts in ./charts
 """
 
