@@ -46,3 +46,9 @@ The script creates the CSV files and the `charts` folder in the folder it runs f
 - Conditional logic with `np.where` and `apply`
 - Grouping and aggregation
 - Data visualisation with seaborn
+
+  ## Files
+- `Python_Capstone_Project.ipynb` – notebook with outputs and charts
+- `project_data.py` – full script (run with `python project_data.py`)
+- `*.csv` – input and result datasets
+- `charts/` – saved visualisations
